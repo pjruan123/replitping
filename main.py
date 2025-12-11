@@ -4,7 +4,7 @@ import os
 
 # --- CONFIGURAÇÃO ---
 # O URL do seu Replit será passado como uma Variável de Ambiente
-REPLIT_URL = os.environ.get("REPLIT_URL") 
+REPLIT_URL = os.environ.get("https://replit.com/@pabloabreujuan2/discordbotajdzip#discordbotajd/main.py") 
 PING_INTERVAL_SECONDS = 300  # 5 minutos
 
 def ping_replit():
